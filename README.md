@@ -16,3 +16,4 @@
  - [Reflexão: Repreensão](./poemas/repreensao.md)
  - [O mal deste mundo](./poemas/o-mal-deste-mundo.md)
  - [Reflexão: Expiação](./poemas/expiacao.md)
+ - [Adeus](./poemas/adeus.md)
