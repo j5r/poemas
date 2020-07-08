@@ -10,6 +10,7 @@ Pelo ser humano,
 
 Para ser humano.
 
+---
 
 
 Para animar o meu próprio
@@ -24,7 +25,7 @@ Pra poder caminhar
 
 Com toda maestria.
 
-
+---
 
 
 Quem sabe o outro
