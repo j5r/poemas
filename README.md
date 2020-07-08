@@ -6,3 +6,4 @@
  - [Reflexão: Valor vs Preço](./poemas/valor-vs-preco.md)
  - [Amar](./poemas/amar.md)
  - [Reflexão: Remédio](./poemas/remedio.md)
+ - [Amor](./poemas/amor.md)
