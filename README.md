@@ -8,3 +8,4 @@
  - [Reflexão: Remédio](./poemas/remedio.md)
  - [Reflexão: Amor](./poemas/amor.md)
  - [Reflexão: Amor próprio](./poemas/amor-proprio.md)
+ - [Sorria](./poemas/sorria.md)
