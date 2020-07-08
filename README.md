@@ -11,3 +11,4 @@
  - [Sorria](./poemas/sorria.md)
  - [Reflexão: Equilíbrio](./poemas/equilibrio.md)
  - [Reflexão: Amai ao próximo](./poemas/amai-ao-proximo.md)
+ - [Reflexão: Esperança](./poemas/esperanca.md)
