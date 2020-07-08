@@ -13,3 +13,4 @@
  - [Reflexão: Amai ao próximo](./poemas/amai-ao-proximo.md)
  - [Reflexão: Esperança](./poemas/esperanca.md)
  - [Salmo](./poemas/salmo.md)
+ - [Reflexão: Repreensão](./poemas/repreensao.md)
