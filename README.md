@@ -7,3 +7,4 @@
  - [Amar](./poemas/amar.md)
  - [Reflexão: Remédio](./poemas/remedio.md)
  - [Reflexão: Amor](./poemas/amor.md)
+ - [Reflexão: Amor próprio](./poemas/amor-proprio.md)
