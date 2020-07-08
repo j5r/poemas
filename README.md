@@ -14,3 +14,4 @@
  - [Reflexão: Esperança](./poemas/esperanca.md)
  - [Salmo](./poemas/salmo.md)
  - [Reflexão: Repreensão](./poemas/repreensao.md)
+ - [O mal deste mundo](./poemas/o-mal-deste-mundo.md)
